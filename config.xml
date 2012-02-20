@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="https://addons.opera.com/addons/extensions/details/font-resizer/" version="1.1">
+  <name>Font Resizer</name>
+  <icon src="simge_64.png"/>
+  <update-description href="https://extension-updates.opera.com/api/w3c-wd1/update/78a1ff25-b31f-4372-8d1d-ae753b545e61/"/>
+  <license>Copyright 2011 greench. All rights reserved.</license>
+  <author href="http://my.opera.com/greench" email="greench@myopera.com">greench</author>
+  <description xml:lang="en">Resize font sizes of web pages without resizing images. To increase document font size CTRL + Shift + Up Arrow and to decrease CTRL + Shift + Down Arrow</description>
+  <description xml:lang="tr">Resimleri boyutlandırmadan web sayflarındaki yazıları boyutlandırın. Yazıtipi boyutunu arttırmak için CTRL + Shift + Yukarı Ok Tuşunu, düşürmek için CTRL + Shift + Aşağı Ok Tuşunu kullanın.</description>
+</widget>
